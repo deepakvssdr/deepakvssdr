@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learning MERN Stack & Machine Learning<br>
+Currently learning MERN Stack & Machine Learning<br>
 Open to contributing to real projects<br>
 Always eager to learn new technologies<br>
 
