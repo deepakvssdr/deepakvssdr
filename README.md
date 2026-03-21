@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning JavaScript<br>
+I'm currently learning MERN stack and Machine learning<br>
 
 
 ## 🌐 Socials:
