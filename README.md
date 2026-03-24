@@ -1,4 +1,6 @@
 # 💫 About Me:
+Hi my name is Deepak V S
+
 Currently learning MERN Stack & Machine Learning<br>
 Open to contributing to real projects<br>
 Always eager to learn new technologies<br>
