@@ -1,12 +1,14 @@
 <h1 align="center">Hi there, I'm Deepak V S 👋</h1>
 <h3 align="center">MERN Stack & Machine Learning Developer</h3>
 
-<p align="center">
-  <a href="deepakvssdr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/deepak-v-s-29a5b92b8"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/deepakvssdr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://mastodon.social/@Deepak%20VS"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" /></a>
-</p>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakvssdr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-v-s-29a5b92b8)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/deepakvssdr)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@Deepak%20VS)
+
+</div>
 
 ---
 
@@ -39,8 +41,8 @@ I am a passionate developer currently expanding my expertise in full-stack web d
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 
 ---
-
-<!--### 📊 GitHub Analytics
+<!--
+### 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepakvssdr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Deepak's GitHub Stats" />
@@ -56,5 +58,4 @@ I am a passionate developer currently expanding my expertise in full-stack web d
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=deepakvssdr&icon=0&color=0" alt="Profile Views" />
   </a>
-</div>
--->
+</div>-->
